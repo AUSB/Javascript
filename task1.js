@@ -1,5 +1,5 @@
 
-/* write your JS code here */
+/* JS code here */
 function light1() {
     var light = document.getElementById("light");
     light.src = "light_1.jpg";
