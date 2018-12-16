@@ -1,5 +1,5 @@
 
-/* write your JS code here */
+/* JS code here */
 alert("here");
 function addfunction(){
   var input1 = document.getElementById("input1");
