@@ -1,5 +1,5 @@
 
-/* write your JS code here */
+/* JS code here */
 alert("here");
 function checkfunction() {
    var box = document.getElementById("box");
